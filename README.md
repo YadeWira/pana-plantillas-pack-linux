@@ -1,2 +1,3 @@
-# pana-plantillas-pack-linux
-Plantillas para tu gestor de archivos en español.
+# Pana-Plantillas-Pack-Linux
+
+Pack de plantillas para tu gestor de archivos GNU/Linux en español.
